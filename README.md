@@ -1,0 +1,1 @@
+An Excel-based tool for option pricing using the Binomial Lattice Model. Features include customizable inputs, dynamic lattice construction, European/American option pricing, and visualizations. Ideal for financial learning and analysis with an intuitive, no-code interface.
